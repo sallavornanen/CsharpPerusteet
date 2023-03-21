@@ -1,0 +1,16 @@
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.csprojAssemblyReference.cache
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.AssemblyInfoInputs.cache
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.AssemblyInfo.cs
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.csproj.CoreCompileInputs.cache
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\4CPeruspalkanlasku.exe
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\4CPeruspalkanlasku.deps.json
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\4CPeruspalkanlasku.runtimeconfig.json
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\4CPeruspalkanlasku.runtimeconfig.dev.json
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\4CPeruspalkanlasku.dll
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\ref\4CPeruspalkanlasku.dll
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\bin\Debug\net5.0\4CPeruspalkanlasku.pdb
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.dll
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\ref\4CPeruspalkanlasku.dll
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.pdb
+C:\Users\salla.vornanen\source\repos\4CPeruspalkanlasku\4CPeruspalkanlasku\obj\Debug\net5.0\4CPeruspalkanlasku.genruntimeconfig.cache
